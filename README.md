@@ -10,6 +10,37 @@
 
 The description of this project and the requirements can be checked on the PDF file [PROJ1-EDA.pdf](./PROJ1-EDA.pdf).
 
+
+## Table of Contents
+
+- [Data Setup](#data-setup)
+  - [Copying Data](#copying-data)
+  - [Setting Up](#setting-up)
+    - [X Environment](#x-environment)
+    - [Y Environment](#y-environment)
+    - [Z Environment](#z-environment)
+
+- [1. Selection and Join](#1-selection-and-join)
+  - [a. Municipality 1103](#a-what-are-the-codes-and-names-of-parishes-belonging-to-municipality-1103)
+  - [a. Azambuja](#a-what-are-the-codes-and-names-of-parishes-belonging-to-municipality-with-the-name-azambuja)
+  - [b. Lisbon mandates](#b-indicate-the-party-acronyms-designations-and-number-of-mandates-obtained-in-the-district-of-lisbon)
+  - [c. BE votes in Lisbon district parishes](#a-indicate-the-number-of-votes-obtained-by-the-party-be-in-parishes-of-the-lisbon-district)
+
+- [2. Aggregation](#2-aggregation)
+  - [a. PS votes nationwide](#a-how-many-votes-did-the-party-ps-obtain-nationwide)
+  - [b. Votes by party in each district](#b-how-many-votes-did-each-party-obtain-in-each-district)
+  - [c. Highest vote in a parish](#c-which-party-obtained-the-highest-number-of-votes-in-a-parish-indicate-the-party-acronym-parish-name-and-the-corresponding-votes)
+  - [d. Highest vote by district](#d-for-each-district-indicate-its-name-and-the-party-that-obtained-the-highest-number-of-votes-in-that-district)
+
+- [3. Negation](#3-negation)
+  - [Parties that did not compete in Lisbon](#likewise-in-question-2-analyze-the-query-which-parties-did-not-compete-in-the-district-of-lisbon)
+
+- [4. Universal Query](#4-universal-query)
+
+- [5. Compare execution plans in Z](#5-compare-execution-plans-for-the-query-how-many-votes-did-ps-and-psd-obtain-in-districts-11-15-and-17-considering-in-environment-z)
+  - [a. B-tree indexes](#a-using-b-tree-indexes-on-zconcelhosdistrito-e-zvotacoespartido)
+  - [b. Bitmap indexes](#b-using-bitmap-indexes)
+
 ## Data Setup
 
 Before starting building queries and analyzing the execution plan of them, it's necessary to copy the required database of the project and setting up each environment. You can check the entire SQL file that does it on [sql/data-setup.sql](./sql/data-setup.sql).
