@@ -1,0 +1,236 @@
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+              1 Aveiro                                             BE         Bloco de Esquerda                                                                                           4676
+              1 Aveiro                                             CDSPP      Partido Popular                                                                                            49183
+              1 Aveiro                                             MPT        Movimento Partido da Terra                                                                                   847
+              1 Aveiro                                             PCPPEV     Partido Comunista Português                                                                                12797
+              1 Aveiro                                             PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                             1511
+              1 Aveiro                                             PH         Partido Humanista                                                                                            968
+              1 Aveiro                                             PPDPSD     Partido Social Democrata                                                                                  138686
+              1 Aveiro                                             PPM        Partido Popular Monárquico                                                                                  1148
+              1 Aveiro                                             PS         Partido Socialista                                                                                        145575
+              1 Aveiro                                             PSN        Partido Solidariedade Nacional                                                                               660
+              2 Beja                                               BE         Bloco de Esquerda                                                                                           1316
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+              2 Beja                                               CDSPP      Partido Popular                                                                                             3315
+              2 Beja                                               MPT        Movimento Partido da Terra                                                                                   279
+              2 Beja                                               PCPPEV     Partido Comunista Português                                                                                24077
+              2 Beja                                               PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                             1664
+              2 Beja                                               PPDPSD     Partido Social Democrata                                                                                   12308
+              2 Beja                                               PPM        Partido Popular Monárquico                                                                                   393
+              2 Beja                                               PS         Partido Socialista                                                                                         39728
+              2 Beja                                               PSN        Partido Solidariedade Nacional                                                                               207
+              3 Braga                                              BE         Bloco de Esquerda                                                                                           5164
+              3 Braga                                              CDSPP      Partido Popular                                                                                            39027
+              3 Braga                                              MPT        Movimento Partido da Terra                                                                                   973
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+              3 Braga                                              PCPPEV     Partido Comunista Português                                                                                23821
+              3 Braga                                              PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                             2947
+              3 Braga                                              PH         Partido Humanista                                                                                            873
+              3 Braga                                              POUS       Partido Operário de Unidade Socialista                                                                       830
+              3 Braga                                              PPDPSD     Partido Social Democrata                                                                                  162433
+              3 Braga                                              PPM        Partido Popular Monárquico                                                                                  1434
+              3 Braga                                              PS         Partido Socialista                                                                                        195602
+              3 Braga                                              PSN        Partido Solidariedade Nacional                                                                              1758
+              4 Bragança                                           BE         Bloco de Esquerda                                                                                            679
+              4 Bragança                                           CDSPP      Partido Popular                                                                                             7079
+              4 Bragança                                           MPT        Movimento Partido da Terra                                                                                   296
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+              4 Bragança                                           PCPPEV     Partido Comunista Português                                                                                 2141
+              4 Bragança                                           PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                              530
+              4 Bragança                                           PPDPSD     Partido Social Democrata                                                                                   36841
+              4 Bragança                                           PS         Partido Socialista                                                                                         32588
+              4 Bragança                                           PSN        Partido Solidariedade Nacional                                                                               230
+              5 Castelo Branco                                     BE         Bloco de Esquerda                                                                                           1520
+              5 Castelo Branco                                     CDSPP      Partido Popular                                                                                             7665
+              5 Castelo Branco                                     MPT        Movimento Partido da Terra                                                                                   424
+              5 Castelo Branco                                     PCPPEV     Partido Comunista Português                                                                                 6442
+              5 Castelo Branco                                     PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                              840
+              5 Castelo Branco                                     PPDPSD     Partido Social Democrata                                                                                   39171
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+              5 Castelo Branco                                     PPM        Partido Popular Monárquico                                                                                   566
+              5 Castelo Branco                                     PS         Partido Socialista                                                                                         63398
+              6 Coimbra                                            BE         Bloco de Esquerda                                                                                           4545
+              6 Coimbra                                            CDSPP      Partido Popular                                                                                            13990
+              6 Coimbra                                            MPT        Movimento Partido da Terra                                                                                   619
+              6 Coimbra                                            PCPPEV     Partido Comunista Português                                                                                14258
+              6 Coimbra                                            PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                             1253
+              6 Coimbra                                            PH         Partido Humanista                                                                                            446
+              6 Coimbra                                            POUS       Partido Operário de Unidade Socialista                                                                       235
+              6 Coimbra                                            PPDPSD     Partido Social Democrata                                                                                   82025
+              6 Coimbra                                            PPM        Partido Popular Monárquico                                                                                   915
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+              6 Coimbra                                            PS         Partido Socialista                                                                                        109956
+              7 Évora                                              BE         Bloco de Esquerda                                                                                           1394
+              7 Évora                                              CDSPP      Partido Popular                                                                                             4636
+              7 Évora                                              MPT        Movimento Partido da Terra                                                                                   329
+              7 Évora                                              PCPPEV     Partido Comunista Português                                                                                22794
+              7 Évora                                              PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                             1582
+              7 Évora                                              PPDPSD     Partido Social Democrata                                                                                   17283
+              7 Évora                                              PPM        Partido Popular Monárquico                                                                                   367
+              7 Évora                                              PS         Partido Socialista                                                                                         42257
+              7 Évora                                              PSN        Partido Solidariedade Nacional                                                                               196
+              8 Faro                                               BE         Bloco de Esquerda                                                                                           4106
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+              8 Faro                                               CDSPP      Partido Popular                                                                                            13084
+              8 Faro                                               MPT        Movimento Partido da Terra                                                                                  1237
+              8 Faro                                               PCPPEV     Partido Comunista Português                                                                                14886
+              8 Faro                                               PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                             2056
+              8 Faro                                               PPDPSD     Partido Social Democrata                                                                                   53096
+              8 Faro                                               PS         Partido Socialista                                                                                         87162
+              9 Guarda                                             BE         Bloco de Esquerda                                                                                           1088
+              9 Guarda                                             CDSPP      Partido Popular                                                                                             9987
+              9 Guarda                                             MPT        Movimento Partido da Terra                                                                                   413
+              9 Guarda                                             PCPPEV     Partido Comunista Português                                                                                 3253
+              9 Guarda                                             PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                              691
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+              9 Guarda                                             PPDPSD     Partido Social Democrata                                                                                   40024
+              9 Guarda                                             PS         Partido Socialista                                                                                         44254
+             10 Leiria                                             BE         Bloco de Esquerda                                                                                           3843
+             10 Leiria                                             CDSPP      Partido Popular                                                                                            23088
+             10 Leiria                                             MPT        Movimento Partido da Terra                                                                                   899
+             10 Leiria                                             PCPPEV     Partido Comunista Português                                                                                12357
+             10 Leiria                                             PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                             1724
+             10 Leiria                                             POUS       Partido Operário de Unidade Socialista                                                                       469
+             10 Leiria                                             PPDPSD     Partido Social Democrata                                                                                   99091
+             10 Leiria                                             PS         Partido Socialista                                                                                         85589
+             10 Leiria                                             PSN        Partido Solidariedade Nacional                                                                               618
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+             11 Lisboa                                             BE         Bloco de Esquerda                                                                                          55113
+             11 Lisboa                                             CDSPP      Partido Popular                                                                                            96184
+             11 Lisboa                                             MPT        Movimento Partido da Terra                                                                                  6249
+             11 Lisboa                                             PCPPEV     Partido Comunista Português                                                                               138225
+             11 Lisboa                                             PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                             9284
+             11 Lisboa                                             PH         Partido Humanista                                                                                           2085
+             11 Lisboa                                             POUS       Partido Operário de Unidade Socialista                                                                      1489
+             11 Lisboa                                             PPDPSD     Partido Social Democrata                                                                                  307961
+             11 Lisboa                                             PPM        Partido Popular Monárquico                                                                                  4800
+             11 Lisboa                                             PS         Partido Socialista                                                                                        480410
+             11 Lisboa                                             PSN        Partido Solidariedade Nacional                                                                              1812
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+             12 Portalegre                                         BE         Bloco de Esquerda                                                                                            876
+             12 Portalegre                                         CDSPP      Partido Popular                                                                                             4180
+             12 Portalegre                                         MPT        Movimento Partido da Terra                                                                                   219
+             12 Portalegre                                         PCPPEV     Partido Comunista Português                                                                                10723
+             12 Portalegre                                         PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                              809
+             12 Portalegre                                         PPDPSD     Partido Social Democrata                                                                                   16068
+             12 Portalegre                                         PPM        Partido Popular Monárquico                                                                                   276
+             12 Portalegre                                         PS         Partido Socialista                                                                                         36545
+             12 Portalegre                                         PSN        Partido Solidariedade Nacional                                                                               119
+             13 Porto                                              BE         Bloco de Esquerda                                                                                          21384
+             13 Porto                                              CDSPP      Partido Popular                                                                                            69087
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+             13 Porto                                              MPT        Movimento Partido da Terra                                                                                  2061
+             13 Porto                                              PCPPEV     Partido Comunista Português                                                                                57308
+             13 Porto                                              PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                             4542
+             13 Porto                                              PH         Partido Humanista                                                                                           2009
+             13 Porto                                              POUS       Partido Operário de Unidade Socialista                                                                       650
+             13 Porto                                              PPDPSD     Partido Social Democrata                                                                                  299703
+             13 Porto                                              PPM        Partido Popular Monárquico                                                                                  2714
+             13 Porto                                              PS         Partido Socialista                                                                                        440162
+             13 Porto                                              PSN        Partido Solidariedade Nacional                                                                              1973
+             14 Santarém                                           BE         Bloco de Esquerda                                                                                           4798
+             14 Santarém                                           CDSPP      Partido Popular                                                                                            19559
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+             14 Santarém                                           MPT        Movimento Partido da Terra                                                                                  1113
+             14 Santarém                                           PCPPEV     Partido Comunista Português                                                                                24554
+             14 Santarém                                           PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                             2508
+             14 Santarém                                           PPDPSD     Partido Social Democrata                                                                                   73252
+             14 Santarém                                           PS         Partido Socialista                                                                                        110326
+             14 Santarém                                           PSN        Partido Solidariedade Nacional                                                                               833
+             15 Setúbal                                            BE         Bloco de Esquerda                                                                                          13785
+             15 Setúbal                                            CDSPP      Partido Popular                                                                                            21969
+             15 Setúbal                                            MPT        Movimento Partido da Terra                                                                                  1711
+             15 Setúbal                                            PCPPEV     Partido Comunista Português                                                                                96705
+             15 Setúbal                                            PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                             4161
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+             15 Setúbal                                            POUS       Partido Operário de Unidade Socialista                                                                       383
+             15 Setúbal                                            PPDPSD     Partido Social Democrata                                                                                   70340
+             15 Setúbal                                            PPM        Partido Popular Monárquico                                                                                  1780
+             15 Setúbal                                            PS         Partido Socialista                                                                                        170193
+             15 Setúbal                                            PSN        Partido Solidariedade Nacional                                                                               782
+             16 Viana do Castelo                                   BE         Bloco de Esquerda                                                                                           1687
+             16 Viana do Castelo                                   CDSPP      Partido Popular                                                                                            19239
+             16 Viana do Castelo                                   MPT        Movimento Partido da Terra                                                                                   448
+             16 Viana do Castelo                                   PCPPEV     Partido Comunista Português                                                                                 6877
+             16 Viana do Castelo                                   PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                              728
+             16 Viana do Castelo                                   PH         Partido Humanista                                                                                            358
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+             16 Viana do Castelo                                   PPDPSD     Partido Social Democrata                                                                                   49043
+             16 Viana do Castelo                                   PPM        Partido Popular Monárquico                                                                                   644
+             16 Viana do Castelo                                   PS         Partido Socialista                                                                                         55132
+             16 Viana do Castelo                                   PSN        Partido Solidariedade Nacional                                                                               448
+             17 Vila Real                                          BE         Bloco de Esquerda                                                                                            995
+             17 Vila Real                                          CDSPP      Partido Popular                                                                                             8599
+             17 Vila Real                                          MPT        Movimento Partido da Terra                                                                                   296
+             17 Vila Real                                          PCPPEV     Partido Comunista Português                                                                                 2992
+             17 Vila Real                                          PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                              656
+             17 Vila Real                                          PPDPSD     Partido Social Democrata                                                                                   56507
+             17 Vila Real                                          PPM        Partido Popular Monárquico                                                                                   658
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+             17 Vila Real                                          PS         Partido Socialista                                                                                         50691
+             17 Vila Real                                          PSN        Partido Solidariedade Nacional                                                                               504
+             18 Viseu                                              BE         Bloco de Esquerda                                                                                           2399
+             18 Viseu                                              CDSPP      Partido Popular                                                                                            21294
+             18 Viseu                                              MPT        Movimento Partido da Terra                                                                                   445
+             18 Viseu                                              PCPPEV     Partido Comunista Português                                                                                 4470
+             18 Viseu                                              PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                              994
+             18 Viseu                                              PH         Partido Humanista                                                                                            607
+             18 Viseu                                              PPDPSD     Partido Social Democrata                                                                                   90116
+             18 Viseu                                              PPM        Partido Popular Monárquico                                                                                   638
+             18 Viseu                                              PS         Partido Socialista                                                                                         77809
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+             18 Viseu                                              PSN        Partido Solidariedade Nacional                                                                               648
+             30 Madeira                                            BE         Bloco de Esquerda                                                                                           1480
+             30 Madeira                                            CDSPP      Partido Popular                                                                                            12930
+             30 Madeira                                            MPT        Movimento Partido da Terra                                                                                   475
+             30 Madeira                                            PCPPEV     Partido Comunista Português                                                                                 3424
+             30 Madeira                                            PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                              657
+             30 Madeira                                            PPDPSD     Partido Social Democrata                                                                                   56302
+             30 Madeira                                            PS         Partido Socialista                                                                                         42615
+             30 Madeira                                            PSN        Partido Solidariedade Nacional                                                                               570
+             40 Açores                                             BE         Bloco de Esquerda                                                                                            992
+             40 Açores                                             CDSPP      Partido Popular                                                                                             5215
+
+DISTRITO_CODIGO DISTRITO_NOME                                      PARTIDO_SI DESIGNACAO                                                                                           TOTAL_VOTOS
+--------------- -------------------------------------------------- ---------- ---------------------------------------------------------------------------------------------------- -----------
+             40 Açores                                             MPT        Movimento Partido da Terra                                                                                   178
+             40 Açores                                             PCPPEV     Partido Comunista Português                                                                                 1612
+             40 Açores                                             PCTPMRPP   Partido Comunista dos Trabalhadores Portugueses                                                              330
+             40 Açores                                             PDA        Partido Democrático do Atlântico                                                                             437
+             40 Açores                                             PPDPSD     Partido Social Democrata                                                                                   33564
+             40 Açores                                             PS         Partido Socialista                                                                                         49947
+
+182 linhas selecionadas. 
+
